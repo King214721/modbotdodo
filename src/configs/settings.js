@@ -15,7 +15,7 @@
         VoiceChannel: "1050127696992149617",
         Activity: "LISTENING",
         Status: "idle",
-        MongoURL: "mongodb+srv://flybuny:2121474700@cluster0.1jrfqxq.mongodb.net/?retryWrites=true&w=majority",
+        MongoURL: "",
         Footer: "FlyBUNY",
         DisableCooldownsForAdmins: true,
 
